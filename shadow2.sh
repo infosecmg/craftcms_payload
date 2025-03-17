@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/bin/cat /etc/shadow
+/bin/cat /etc/passwd
