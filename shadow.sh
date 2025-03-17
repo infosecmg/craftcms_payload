@@ -1,3 +1,3 @@
 #!/bin/bash
 
-/usr/bin/cat /etc/shadow
+/bin/cat /etc/shadow
