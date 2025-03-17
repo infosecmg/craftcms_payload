@@ -1,3 +1,2 @@
 #!/bin/bash
 
-/bin/cat /etc/shadow
